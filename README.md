@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/nituchaudhary22/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/nituchaudhary22/Leetcode/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/nituchaudhary22/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/nituchaudhary22/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nituchaudhary22/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
@@ -51,5 +52,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/nituchaudhary22/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nituchaudhary22/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/nituchaudhary22/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
