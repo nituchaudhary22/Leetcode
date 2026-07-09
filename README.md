@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/nituchaudhary22/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/nituchaudhary22/Leetcode/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/nituchaudhary22/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/nituchaudhary22/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/nituchaudhary22/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/nituchaudhary22/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
