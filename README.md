@@ -93,4 +93,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/nituchaudhary22/Leetcode/tree/master/0125-valid-palindrome) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/nituchaudhary22/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Hash Table
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/nituchaudhary22/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
