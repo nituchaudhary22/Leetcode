@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nituchaudhary22/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nituchaudhary22/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/nituchaudhary22/Leetcode/tree/master/0289-game-of-life) |
+| [0415-add-strings](https://github.com/nituchaudhary22/Leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/nituchaudhary22/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/nituchaudhary22/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Sorting
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/nituchaudhary22/Leetcode/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/nituchaudhary22/Leetcode/tree/master/0292-nim-game) |
+| [0415-add-strings](https://github.com/nituchaudhary22/Leetcode/tree/master/0415-add-strings) |
 | [1025-divisor-game](https://github.com/nituchaudhary22/Leetcode/tree/master/1025-divisor-game) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nituchaudhary22/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nituchaudhary22/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nituchaudhary22/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/nituchaudhary22/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/nituchaudhary22/Leetcode/tree/master/0383-ransom-note) |
+| [0415-add-strings](https://github.com/nituchaudhary22/Leetcode/tree/master/0415-add-strings) |
 | [0647-palindromic-substrings](https://github.com/nituchaudhary22/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/nituchaudhary22/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0890-find-and-replace-pattern](https://github.com/nituchaudhary22/Leetcode/tree/master/0890-find-and-replace-pattern) |
