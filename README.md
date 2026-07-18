@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/nituchaudhary22/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nituchaudhary22/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nituchaudhary22/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/nituchaudhary22/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nituchaudhary22/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nituchaudhary22/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/nituchaudhary22/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/nituchaudhary22/Leetcode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/nituchaudhary22/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nituchaudhary22/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/nituchaudhary22/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nituchaudhary22/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nituchaudhary22/Leetcode/tree/master/0383-ransom-note) |
 | [1051-height-checker](https://github.com/nituchaudhary22/Leetcode/tree/master/1051-height-checker) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/nituchaudhary22/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1833-maximum-ice-cream-bars](https://github.com/nituchaudhary22/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nituchaudhary22/Leetcode/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/nituchaudhary22/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/nituchaudhary22/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1833-maximum-ice-cream-bars](https://github.com/nituchaudhary22/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## String
 |  |
 | ------- |
