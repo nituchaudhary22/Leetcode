@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nituchaudhary22/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/nituchaudhary22/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nituchaudhary22/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/nituchaudhary22/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nituchaudhary22/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nituchaudhary22/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/nituchaudhary22/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/nituchaudhary22/Leetcode/tree/master/0067-add-binary) |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/nituchaudhary22/Leetcode/tree/master/1668-maximum-repeating-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nituchaudhary22/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
