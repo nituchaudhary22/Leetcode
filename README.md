@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/nituchaudhary22/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2315-count-asterisks](https://github.com/nituchaudhary22/Leetcode/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/nituchaudhary22/Leetcode/tree/master/2325-decode-the-message) |
+| [3931-check-adjacent-digit-differences](https://github.com/nituchaudhary22/Leetcode/tree/master/3931-check-adjacent-digit-differences) |
 ## Hash Table
 |  |
 | ------- |
