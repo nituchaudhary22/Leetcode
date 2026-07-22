@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/nituchaudhary22/Leetcode/tree/master/0415-add-strings) |
 | [1025-divisor-game](https://github.com/nituchaudhary22/Leetcode/tree/master/1025-divisor-game) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nituchaudhary22/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1903-largest-odd-number-in-string](https://github.com/nituchaudhary22/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nituchaudhary22/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nituchaudhary22/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/nituchaudhary22/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/nituchaudhary22/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1833-maximum-ice-cream-bars](https://github.com/nituchaudhary22/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1903-largest-odd-number-in-string](https://github.com/nituchaudhary22/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/nituchaudhary22/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nituchaudhary22/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nituchaudhary22/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1903-largest-odd-number-in-string](https://github.com/nituchaudhary22/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/nituchaudhary22/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2315-count-asterisks](https://github.com/nituchaudhary22/Leetcode/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/nituchaudhary22/Leetcode/tree/master/2325-decode-the-message) |
