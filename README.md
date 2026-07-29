@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nituchaudhary22/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/nituchaudhary22/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/nituchaudhary22/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/nituchaudhary22/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2315-count-asterisks](https://github.com/nituchaudhary22/Leetcode/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/nituchaudhary22/Leetcode/tree/master/2325-decode-the-message) |
 | [3931-check-adjacent-digit-differences](https://github.com/nituchaudhary22/Leetcode/tree/master/3931-check-adjacent-digit-differences) |
