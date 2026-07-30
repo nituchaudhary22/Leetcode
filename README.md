@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nituchaudhary22/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nituchaudhary22/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nituchaudhary22/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/nituchaudhary22/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nituchaudhary22/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/nituchaudhary22/Leetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/nituchaudhary22/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/nituchaudhary22/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/nituchaudhary22/Leetcode/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/nituchaudhary22/Leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/nituchaudhary22/Leetcode/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
