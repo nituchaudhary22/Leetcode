@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/nituchaudhary22/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/nituchaudhary22/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/nituchaudhary22/Leetcode/tree/master/0709-to-lower-case) |
+| [0824-goat-latin](https://github.com/nituchaudhary22/Leetcode/tree/master/0824-goat-latin) |
 | [0890-find-and-replace-pattern](https://github.com/nituchaudhary22/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1108-defanging-an-ip-address](https://github.com/nituchaudhary22/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/nituchaudhary22/Leetcode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
