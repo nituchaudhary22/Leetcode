@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/nituchaudhary22/Leetcode/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/nituchaudhary22/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/nituchaudhary22/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0877-stone-game](https://github.com/nituchaudhary22/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/nituchaudhary22/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/nituchaudhary22/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/nituchaudhary22/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/nituchaudhary22/Leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/nituchaudhary22/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nituchaudhary22/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/nituchaudhary22/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/nituchaudhary22/Leetcode/tree/master/1025-divisor-game) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nituchaudhary22/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/nituchaudhary22/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/nituchaudhary22/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/nituchaudhary22/Leetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/nituchaudhary22/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/nituchaudhary22/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/nituchaudhary22/Leetcode/tree/master/1025-divisor-game) |
 | [1668-maximum-repeating-substring](https://github.com/nituchaudhary22/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Number Theory
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/nituchaudhary22/Leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/nituchaudhary22/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/nituchaudhary22/Leetcode/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |
