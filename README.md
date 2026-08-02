@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/nituchaudhary22/Leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/nituchaudhary22/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/nituchaudhary22/Leetcode/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/nituchaudhary22/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/nituchaudhary22/Leetcode/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/nituchaudhary22/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/nituchaudhary22/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nituchaudhary22/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/nituchaudhary22/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1668-maximum-repeating-substring](https://github.com/nituchaudhary22/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Trie
 |  |
