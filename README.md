@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/nituchaudhary22/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/nituchaudhary22/Leetcode/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/nituchaudhary22/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nituchaudhary22/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/nituchaudhary22/Leetcode/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/nituchaudhary22/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nituchaudhary22/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/nituchaudhary22/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nituchaudhary22/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/nituchaudhary22/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nituchaudhary22/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nituchaudhary22/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nituchaudhary22/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nituchaudhary22/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/nituchaudhary22/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nituchaudhary22/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nituchaudhary22/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/nituchaudhary22/Leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nituchaudhary22/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/nituchaudhary22/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nituchaudhary22/Leetcode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nituchaudhary22/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nituchaudhary22/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nituchaudhary22/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/nituchaudhary22/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/nituchaudhary22/Leetcode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/nituchaudhary22/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/nituchaudhary22/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nituchaudhary22/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nituchaudhary22/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nituchaudhary22/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/nituchaudhary22/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nituchaudhary22/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nituchaudhary22/Leetcode/tree/master/0389-find-the-difference) |
