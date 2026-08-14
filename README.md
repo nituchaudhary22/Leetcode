@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/nituchaudhary22/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2315-count-asterisks](https://github.com/nituchaudhary22/Leetcode/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/nituchaudhary22/Leetcode/tree/master/2325-decode-the-message) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nituchaudhary22/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3931-check-adjacent-digit-differences](https://github.com/nituchaudhary22/Leetcode/tree/master/3931-check-adjacent-digit-differences) |
 ## Hash Table
 |  |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/nituchaudhary22/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2325-decode-the-message](https://github.com/nituchaudhary22/Leetcode/tree/master/2325-decode-the-message) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nituchaudhary22/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nituchaudhary22/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/nituchaudhary22/Leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -325,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nituchaudhary22/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nituchaudhary22/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
