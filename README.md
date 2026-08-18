@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/nituchaudhary22/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/nituchaudhary22/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/nituchaudhary22/Leetcode/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/nituchaudhary22/Leetcode/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/nituchaudhary22/Leetcode/tree/master/0824-goat-latin) |
 | [0890-find-and-replace-pattern](https://github.com/nituchaudhary22/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1108-defanging-an-ip-address](https://github.com/nituchaudhary22/Leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nituchaudhary22/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/nituchaudhary22/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/nituchaudhary22/Leetcode/tree/master/0796-rotate-string) |
 | [1668-maximum-repeating-substring](https://github.com/nituchaudhary22/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Trie
 |  |
