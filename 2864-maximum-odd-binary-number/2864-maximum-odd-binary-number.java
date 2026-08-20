@@ -1,28 +1,28 @@
 class Solution {
     public String maximumOddBinaryNumber(String s) {
-        StringBuilder sb =new StringBuilder();
-        int n  =s.length();
-        int count =0;
-        for(int i=0;i<n;i++){
-            if(s.charAt(i)=='1'){
-                count++;
+        int left=0;
+        int right =s.length()-1;
+        char[] ch = s.toCharArray();
+        while(left<right){
+            if(ch[left] =='1'){
+                left++;
+            }else if(ch[right]=='0'){
+                right--;
+            }else{
+                char temp = ch[left];
+                ch[left] = ch[right];
+                ch[right] =temp;
+                left++;
+                right--;
             }
         }
-        if(count == 1){
-            for(int i=0;i<n-1;i++){
-            sb.append('0');
-        }
-        sb.append('1');
-        }
-        if(count > 1){
-            for(int i=0;i<count-1;i++){
-                sb.append('1');
+            for(int i=s.length()-1;i>=0;i--){
+                if(ch[i]=='1'){
+                char tempo = ch[i];
+                ch[i]=ch[s.length()-1];
+                ch[s.length()-1] = tempo;
+             }
             }
-            for(int i=count-1;i<n-1;i++){
-                sb.append('0');
-            }
-            sb.append('1');
-        }
-        return sb.toString();
+        return String.valueOf(ch);
     }
 }
