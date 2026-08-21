@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nituchaudhary22/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/nituchaudhary22/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/nituchaudhary22/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nituchaudhary22/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nituchaudhary22/Leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nituchaudhary22/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/nituchaudhary22/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nituchaudhary22/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nituchaudhary22/Leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/nituchaudhary22/Leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/nituchaudhary22/Leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/nituchaudhary22/Leetcode/tree/master/0680-valid-palindrome-ii) |
