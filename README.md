@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nituchaudhary22/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nituchaudhary22/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/nituchaudhary22/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/nituchaudhary22/Leetcode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/nituchaudhary22/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nituchaudhary22/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/nituchaudhary22/Leetcode/tree/master/0289-game-of-life) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/nituchaudhary22/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/nituchaudhary22/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/nituchaudhary22/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/nituchaudhary22/Leetcode/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/nituchaudhary22/Leetcode/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/nituchaudhary22/Leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/nituchaudhary22/Leetcode/tree/master/0509-fibonacci-number) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nituchaudhary22/Leetcode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nituchaudhary22/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/nituchaudhary22/Leetcode/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nituchaudhary22/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nituchaudhary22/Leetcode/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/nituchaudhary22/Leetcode/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nituchaudhary22/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sliding Window
@@ -388,4 +392,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/nituchaudhary22/Leetcode/tree/master/2427-number-of-common-factors) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nituchaudhary22/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nituchaudhary22/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nituchaudhary22/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
