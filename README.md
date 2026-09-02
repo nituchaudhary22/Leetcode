@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nituchaudhary22/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nituchaudhary22/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/nituchaudhary22/Leetcode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nituchaudhary22/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/nituchaudhary22/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nituchaudhary22/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nituchaudhary22/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nituchaudhary22/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
