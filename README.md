@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/nituchaudhary22/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nituchaudhary22/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nituchaudhary22/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1995-count-special-quadruplets](https://github.com/nituchaudhary22/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/nituchaudhary22/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nituchaudhary22/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nituchaudhary22/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/nituchaudhary22/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nituchaudhary22/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/nituchaudhary22/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1995-count-special-quadruplets](https://github.com/nituchaudhary22/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2325-decode-the-message](https://github.com/nituchaudhary22/Leetcode/tree/master/2325-decode-the-message) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nituchaudhary22/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nituchaudhary22/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nituchaudhary22/Leetcode/tree/master/0204-count-primes) |
+| [1995-count-special-quadruplets](https://github.com/nituchaudhary22/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2427-number-of-common-factors](https://github.com/nituchaudhary22/Leetcode/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nituchaudhary22/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sliding Window
