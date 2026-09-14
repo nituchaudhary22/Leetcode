@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/nituchaudhary22/Leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/nituchaudhary22/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nituchaudhary22/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/nituchaudhary22/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/nituchaudhary22/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/nituchaudhary22/Leetcode/tree/master/1025-divisor-game) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nituchaudhary22/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -428,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nituchaudhary22/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/nituchaudhary22/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
