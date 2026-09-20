@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/nituchaudhary22/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1603-design-parking-system](https://github.com/nituchaudhary22/Leetcode/tree/master/1603-design-parking-system) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/nituchaudhary22/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/nituchaudhary22/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/nituchaudhary22/Leetcode/tree/master/2325-decode-the-message) |
 | [2864-maximum-odd-binary-number](https://github.com/nituchaudhary22/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nituchaudhary22/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/nituchaudhary22/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/nituchaudhary22/Leetcode/tree/master/3931-check-adjacent-digit-differences) |
 ## Hash Table
 |  |
