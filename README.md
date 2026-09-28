@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/nituchaudhary22/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/nituchaudhary22/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nituchaudhary22/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2594-minimum-time-to-repair-cars](https://github.com/nituchaudhary22/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nituchaudhary22/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nituchaudhary22/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nituchaudhary22/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/nituchaudhary22/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nituchaudhary22/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nituchaudhary22/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2594-minimum-time-to-repair-cars](https://github.com/nituchaudhary22/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 ## Divide and Conquer
 |  |
 | ------- |
