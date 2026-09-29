@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nituchaudhary22/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nituchaudhary22/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/nituchaudhary22/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/nituchaudhary22/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nituchaudhary22/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nituchaudhary22/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1995-count-special-quadruplets](https://github.com/nituchaudhary22/Leetcode/tree/master/1995-count-special-quadruplets) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/nituchaudhary22/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nituchaudhary22/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nituchaudhary22/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/nituchaudhary22/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nituchaudhary22/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2594-minimum-time-to-repair-cars](https://github.com/nituchaudhary22/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 ## Divide and Conquer
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/nituchaudhary22/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nituchaudhary22/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/nituchaudhary22/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/nituchaudhary22/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2000-reverse-prefix-of-word](https://github.com/nituchaudhary22/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Counting Sort
 |  |
