@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/nituchaudhary22/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nituchaudhary22/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2594-minimum-time-to-repair-cars](https://github.com/nituchaudhary22/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nituchaudhary22/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nituchaudhary22/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nituchaudhary22/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nituchaudhary22/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/nituchaudhary22/Leetcode/tree/master/0204-count-primes) |
 | [1995-count-special-quadruplets](https://github.com/nituchaudhary22/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2427-number-of-common-factors](https://github.com/nituchaudhary22/Leetcode/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nituchaudhary22/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nituchaudhary22/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nituchaudhary22/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
